@@ -5,7 +5,7 @@ const quizData = [
         b: "D latch",
         c: "RS Flipflop",
         d: "D flipflop",
-        correct: "d",
+        correct: "a",
     },
     {
         question: "A flipflop circuit can be used for?",
@@ -13,7 +13,7 @@ const quizData = [
         b: "Both for counting and scaling",
         c: "Rectification",
         d: "Demodulation",
-        correct: "a",
+        correct: "c",
     },
     {
         question: "D flipflop can be made JK FLipflop by making?",
@@ -21,7 +21,7 @@ const quizData = [
         b: "J=K=1",
         c: "J=0 K=1",
         d: "J=K'",
-        correct: "d",
+        correct: "c",
     },
     {
         question: "Which of the following flipflops has no change condition?",
@@ -29,7 +29,7 @@ const quizData = [
         b: "D",
         c: "SR latch",
         d: "T",
-        correct: "b",
+        correct: "c",
     },
 
 
